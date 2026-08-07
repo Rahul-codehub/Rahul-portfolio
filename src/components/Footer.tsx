@@ -73,7 +73,7 @@ const Footer = () => {
 
                 {/* Copyright */}
                 <p className="text-gray-400 text-sm text-center">
-                    Made with ❤️ by Rahul Kumar.
+                    Made with ❤️ by Rahul Kumar
                 </p>
 
             </div>

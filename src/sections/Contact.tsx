@@ -139,7 +139,7 @@ const Contact = () => {
                         </h3>
 
                         <p className="text-gray-400 leading-relaxed mb-8">
-                            Whether you have an exciting AI project, internship opportunity,
+                            Whether you have an exciting projects, internship opportunity,
                             freelance work, or simply want to connect, I'd be happy to hear
                             from you.
                         </p>

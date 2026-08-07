@@ -4,9 +4,11 @@ import { motion } from "framer-motion";
 
 import {
     SiPython,
+    SiC,
     SiOpenai,
     SiNextdotjs,
     SiTypescript,
+    SiJavascript,
     SiReact,
     SiNodedotjs,
     SiMongodb,
@@ -24,7 +26,13 @@ const skills = [
     },
 
     {
-        name: "Machine Learning",
+        name: "C/C++",
+        level: "Proficient",
+        icon: <SiC   size={26} className="text-yellow-400" />,
+    },
+
+    {
+        name: "AI & ML",
         level: "Proficient",
         icon: <FaBrain size={26} className="text-pink-400" />,
     },
@@ -45,6 +53,11 @@ const skills = [
         name: "TypeScript",
         level: "Decent",
         icon: <SiTypescript size={26} className="text-blue-400" />,
+    },
+    {
+        name: "JavaScript",
+        level: "Decent",
+        icon: <SiJavascript size={26} className="text-yellow-400" />,
     },
 
     {
