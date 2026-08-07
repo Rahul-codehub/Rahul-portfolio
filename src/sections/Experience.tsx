@@ -4,9 +4,22 @@ import { motion } from "framer-motion";
 import Skills from "./Skills";
 
 const experiences = [
+     {
+        title: "Programmer Analyst Intern",
+        company: "TRL Futurex (Techrays Labs) - Remote",
+        year: "August 2026 – September 2026",
+        description:
+            "Assisted in the design, development, and testing of software applications within an AI/ML training program.Collaborated with senior developers and project managers to understand requirements, analyze system issues, and deliver effective solutions.Authored clean, efficient, and well-documented code while participating in code reviews and team meetings.",
+        Skills: [
+            "React.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "Responsive Design",
+            "UI Components",
+            "Git",
+        ],
+    },
     {
-       
-
         title: "Web Development Intern",
         company: "Codec Technologies India • Remote",
         year: "June 2025 – July 2025",
@@ -21,6 +34,8 @@ const experiences = [
             "Git",
         ],
     },
+
+   
 
     
     
@@ -84,7 +99,7 @@ const Experience = () => {
                                 </div>
 
                                 <p className="text-gray-400 leading-relaxed">
-                                    {item.description}
+                                    {item.description }
                                 </p>
 
                             </div>

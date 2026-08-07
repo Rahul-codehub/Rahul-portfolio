@@ -14,7 +14,7 @@ const About = () => {
                 <Reveal>
 
                     {/* Heading */}
-                    <h2 className="text-4xl md:text-5xl font-bold mb-12 gradient-text">
+                    <h2 className="text-4xl md:text-center md:text-5xl font-bold mb-12 gradient-text">
                         About Rahul
                     </h2>
 
