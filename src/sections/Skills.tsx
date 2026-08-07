@@ -19,61 +19,61 @@ import { FaBrain } from "react-icons/fa";
 const skills = [
     {
         name: "Python",
-        level: "95%",
+        level: "Decent",
         icon: <SiPython size={26} className="text-yellow-400" />,
     },
 
     {
         name: "Machine Learning",
-        level: "90%",
+        level: "Proficient",
         icon: <FaBrain size={26} className="text-pink-400" />,
     },
 
     {
         name: "OpenAI APIs",
-        level: "92%",
+        level: "Good",
         icon: <SiOpenai size={26} className="text-green-400" />,
     },
 
     {
         name: "Next.js",
-        level: "90%",
+        level: "Decent",
         icon: <SiNextdotjs size={26} className="text-white" />,
     },
 
     {
         name: "TypeScript",
-        level: "85%",
+        level: "Decent",
         icon: <SiTypescript size={26} className="text-blue-400" />,
     },
 
     {
         name: "React",
-        level: "92%",
+        level: "Proficient",
         icon: <SiReact size={26} className="text-cyan-400" />,
     },
 
     {
         name: "Node.js",
-        level: "84%",
+        level: "Decent",
         icon: <SiNodedotjs size={26} className="text-green-500" />,
     },
 
     {
         name: "MongoDB",
-        level: "82%",
+        level: "Decent",
         icon: <SiMongodb size={26} className="text-green-400" />,
     },
 
     {
         name: "Tailwind CSS",
-        level: "95%",
+        level: "Proficient",
         icon: <SiTailwindcss size={26} className="text-cyan-300" />,
     },
 
     {
         name: "Docker",
-        level: "75%",
+        level: "Good",
         icon: <SiDocker size={26} className="text-blue-500" />,
     },
 ];

@@ -5,6 +5,8 @@ import Skills from "./Skills";
 
 const experiences = [
     {
+       
+
         title: "Web Development Intern",
         company: "Codec Technologies India • Remote",
         year: "June 2025 – July 2025",

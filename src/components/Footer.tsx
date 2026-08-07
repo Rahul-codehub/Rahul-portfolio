@@ -73,7 +73,7 @@ const Footer = () => {
 
                 {/* Copyright */}
                 <p className="text-gray-400 text-sm text-center">
-                    © 2026 Rahul Kumar. All rights reserved.
+                    Made with ❤️ by Rahul Kumar.
                 </p>
 
             </div>

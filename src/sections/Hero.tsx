@@ -44,10 +44,8 @@ const Hero = () => {
                                 2000,
                                 "Full Stack Developer",
                                 2000,
-                                "LLM Developer",
-                                2000,
-                                "AI Automation Builder",
-                                2000,
+                               
+                                
                                 
                             ]}
                             wrapper="span"
@@ -69,7 +67,7 @@ const Hero = () => {
 
                     <p className="text-gray-400 text-lg leading-relaxed text-justify mb-6">
 
-                        I build AI-powered applications,
+                        I like Exploring and building AI-powered applications,
                         LLM systems, intelligent automation tools,
                         and modern web experiences focused on
                         performance, scalability, and innovation.

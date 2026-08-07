@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Chatbot from "@/components/Chatbot";
-import CursorGlow from "@/components/CursorGlow";
+// import CursorGlow from "@/components/CursorGlow";
 import LoadingScreen from "@/components/LoadingScreen";
 
 import Hero from "@/sections/Hero";
@@ -81,7 +81,7 @@ export default function Home() {
 
       </div>
 
-      <CursorGlow />
+      {/* <CursorGlow /> */}
 
       <Navbar />
 

@@ -30,11 +30,11 @@ const About = () => {
 
                         <div className="text-gray-300 text-lg leading-relaxed text-justify">
                             <p>
-                                I am Rahul Kumar, a B.Tech Computer Science and Engineering student at COER University, graduating in 2027. I specialize in AI Engineering and Full Stack Development, with a strong focus on Large Language Models (LLMs), intelligent automation, and modern web technologies.
+                                I am Rahul Kumar, a B.Tech Computer Science and Engineering student at COER University (graduating in 2027). I specialize in Full-Stack MERN Development and AI Application Engineering, with a strong focus on combining modern web architectures with intelligent AI features
                             </p>
 
                             <p>
-                                My technical expertise includes Next.js, React, Node.js, MongoDB, Python, LangChain, Groq API, and AI-powered application development. I enjoy building scalable web platforms, AI chatbots, retrieval-augmented generation (RAG) systems, and intelligent solutions that solve real-world problems. My goal is to become an AI Engineer specializing in LLMs, AI Agents, and intelligent automation while creating impactful products that combine artificial intelligence with exceptional user experiences.
+                                My technical stack includes C++, Python, React.js, Node.js, Express.js, MongoDB, LangChain, FAISS, Socket.IO, and Docker. Having gained practical experience as a MERN Stack Developer Intern at Codec Technologies and won recognitions in university hackathons, I enjoy building scalable web platforms, real-time architectures, and RAG/LLM-driven systems. My goal is to advance as an AI Engineer, crafting scalable, high-performance solutions that bridge artificial intelligence with intuitive user experiences.
                             </p>
 
                         </div>
